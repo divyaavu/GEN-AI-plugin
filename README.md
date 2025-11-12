@@ -74,7 +74,5 @@ Each line follows the JSONL schema:
 
 
 
-The data can be used for experimenting with LLM fine-tuning, code generation, or intelligent test script creation.
-
 
 
